@@ -4,5 +4,5 @@ metadata:
   name: mongo-secret
 type: Opaque
 data:
-  mongo-user: LW4gJ21vbmdvdXNlcicgDQo=
-  mongo-password: LW4gJ21vbmdvcGFzc3dvcmQnIA0K
+  mongo-user: bW9uZ291c2Vy
+  mongo-password: bW9uZ29wYXNzd29yZA==
